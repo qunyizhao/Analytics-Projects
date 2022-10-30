@@ -1,13 +1,3 @@
-*MKTG:553Q Customer Relationship Management;
-*Starbucks Corporation: Leveraging Digital Promotions Data to Enable Effective Targeting;
-
-*Group 31, Section C;
-*Ariel Zhao (qz93);
-*Hoa Anh Hoang (hh274);
-*Junaid Mohammed (jm855);
-*Jiayun Ling (jl1170);
-*Yidi Wu (yw547);
-
 *SAS Codes;
 
 

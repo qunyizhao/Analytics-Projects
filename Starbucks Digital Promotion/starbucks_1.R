@@ -1,13 +1,3 @@
-###########################################
-### Customer Relationship Management
-### Final Project of CRM
-### Section C, Team 31
-
-### Hoa Anh Hoang (hh274)
-### Jiayun Ling (jl1170)
-### Junaid Mohammed (jm855)
-### Yidi Wu (yw547)
-### Ariel Zhao (qz93) 
 
 #########EDA
 library(ggplot2)
@@ -18,10 +8,10 @@ library(corrplot)
 
 ## data cleaning
 ### read file
-profile <-read.csv("/Users/abigail/Desktop/MQM_Fall_1/CRM/Group Project/Starbucks-spending-prediction-main/data/profile.csv")
-combined_data <- read.csv("/Users/abigail/Desktop/MQM_Fall_1/CRM/Group Project/Starbucks-spending-prediction-main/data/combined_data.csv")
-portfolio <-read.csv("/Users/abigail/Desktop/MQM_Fall_1/CRM/Group Project/Starbucks-spending-prediction-main/data/portfolio.csv")
-transcript <-read.csv("/Users/abigail/Desktop/MQM_Fall_1/CRM/Group Project/Starbucks-spending-prediction-main/data/transcript.csv")
+profile <-read.csv("profile.csv")
+combined_data <- read.csv("combined_data.csv")
+portfolio <-read.csv("portfolio.csv")
+transcript <-read.csv("transcript.csv")
 
 ### combine profile and transcript
 combine_profile_transcript <- merge(profile, transcript, by.x ="id", by.y ="customer_id")

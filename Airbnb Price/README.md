@@ -5,15 +5,16 @@ customers with a more personalized way for their travel experience. Millions of 
 put on Airbnb for travelers to choose from. With such a big dataset, our project aims to solve
 urgent business problems of Airbnb pricing strategy below:
 
-(1) Are there any seasonal variabilities in prices and room availability?
+**(1) Are there any seasonal variabilities in prices and room availability?**
 Since room availability and average price are the two most essential factors when Airbnb
 customers book different listings. They not only determine the hosts' revenue, but are also
 closely related to the benefits of Airbnb – the occupancy (availability) of each listing.
 
-(2) What features of a listing impact its price?
+**(2) What features of a listing impact its price?**
 Understanding the impact of amenities and services on price can guide new hosts to charge
 attractively and allow customers to weigh their preferences when booking.
-(3) Do positive reviews drive prices?
+
+**(3) Do positive reviews drive prices?**
 Understanding the impact of customer feedback can provide valuable insights into property
 management, and therefore, prices.
 

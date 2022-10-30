@@ -1,4 +1,4 @@
-**Project Introduction: Evaluating Pricing Strategy of Airbnb in Florida 2022**
+# Evaluating Pricing Strategy of Airbnb in Florida 2022
 
 As the largest online marketplace focused on homestays and experiences, Airbnb provides
 customers with a more personalized way for their travel experience. Millions of listings were
